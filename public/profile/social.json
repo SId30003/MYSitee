@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/siddhant-wadhai-518b5524a/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/SId30003"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:siddhantwadhai20@gmail.com"
+        }
+    ]
+}

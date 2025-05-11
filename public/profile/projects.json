@@ -1,0 +1,64 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/portfolio-poster.png",
+            "title": "Dev Portfolio",
+            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/SId30003/Mysite"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://github.com/SId30003/Mysite"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Portfolio",
+                "JavaScript"
+            ]
+        },
+        {
+            "image" : "images/projects/AWSS3.png",
+            "title": "Static Website Hosting on S3 + CloudFront (AWS)",
+            "bodyText": "- Deployed a static portfolio website on AWS **S3** with a custom domain using **Route 53** and enabled global CDN via CloudFront. \n - Configured SSL/TLS using AWS Certificate Manager and implemented fine-grained IAM access..\n - Deployed on **AWS**.",
+           
+            "tags" : [
+                "S3",
+                "CloudFront",
+                "Route53",
+                "IAM",
+                "HTTPS(SSL)",
+                "Cost Optimisation"
+            ]
+        },
+        {
+            "image" : "images/projects/JenkinsAWS.png",
+            "title": "CI/CD Pipeline with Jenkins + AWS",
+            "bodyText": "- implemented a CI/CD pipeline using Jenkins to automatically build and deploy a Dockerized application to AWS EC2 (or Elastic Beanstalk).\n - Integrated testing and linting in the pipeline.",
+           
+            "tags" : [
+                "Jenkins",
+                "AWS",
+                "Docker",
+                "CI/CD",
+                "Automation",
+                "Devops"
+            ]
+        },
+        {
+            "title": "Cloud Monitoring & Alerting Setup",
+            "bodyText": "- Created a real-time monitoring dashboard using Amazon CloudWatch for an EC2 instance and configured custom alerts for CPU usage and application errors.",
+            
+            "tags" : [
+                "CloudWatch (AWS)",
+                "Stackdriver (GCP)",
+                "Metrics",
+                "Alerts",
+                "Dashboard"
+            ]
+        }
+    ]
+}

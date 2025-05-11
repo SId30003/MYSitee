@@ -1,0 +1,24 @@
+{
+    "experiences": [
+        {
+            "title": "Cloud Deployments",
+            "subtitle": "Frelance",
+            "workType": "Managing college together",
+            "workDescription": [
+                "Deployed various cloudbased architectures",
+                "Managing CI/CD Pipelines for clients"
+            ],
+            "dateText": "06/2024 – Present"
+        },
+        {
+            "title": "Web Developer",
+            "subtitle": "Freelance",
+            "workType": "Freelance projects",
+            "workDescription": [
+                "Developed the Web apps for startups using MERN and other web stacks."
+                
+            ],
+            "dateText": "09/2023 – present"
+        }
+    ]
+}

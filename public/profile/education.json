@@ -1,0 +1,19 @@
+{
+    "education":[
+        {
+            "title": "Jun 20XX - Jun 20YY",
+            "cardTitle": "BCA, Computer Applications",
+            "cardSubtitle":"Hislop College Nagpur, RTMNU",
+            "cardDetailedText": "CGPA - 7.0",
+            "icon" : {
+                "src": "images/education/logo.png"
+            }
+        },
+        {
+            "title": "Apr 2022",
+            "cardTitle": "High School",
+            "cardSubtitle":"Vidya Niketan School,CBSE",
+            "cardDetailedText": ""
+        }
+    ]
+}
